@@ -2,4 +2,7 @@
     <string name="app_name">My Cinema</string>
     <string name="genera">Genera</string>
     <string name="esci"> Esci </string>
+    <string name="Nome" />
+    <string name="spiderman_cover">Spiderman_cover</string>
+    <string name="todo">TODO</string>
 </resources>
